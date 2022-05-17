@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+    .container a {
+      margin: 3px;
+      padding: 5px;
+    }
+  
+    /* .container a.active { */
+    a.active {
+      color: var(--pink);
+      font-weight: bold;
+    }

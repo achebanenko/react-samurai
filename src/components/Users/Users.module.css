@@ -1,0 +1,16 @@
+.wrapper {
+    display: flex;
+  }
+  
+  .list {
+    width: 300px;
+  }
+
+.card {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+  padding: 20px;
+  background-color: var(--white);
+  border-radius: 10px;
+}

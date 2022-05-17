@@ -1,0 +1,7 @@
+export const ADD_POST = 'PROFILE/ADD-POST'
+
+export const SET_USERS = 'USERS/SET_USERS'
+export const RESET_USERS = 'USERS/RESET_USERS'
+export const SET_USERS_PAGE = 'USERS/SET_USERS_PAGE'
+export const FOLLOW_USER = 'USERS/FOLLOW_USER'
+export const UNFOLLOW_USER = 'USERS/UNFOLLOW_USER'

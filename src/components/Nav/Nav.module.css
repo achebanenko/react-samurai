@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 20px;
+  width: 160px;
+  background-color: var(--white-plus);
+  /* border-right: 1px solid var(--light-gray); */
+}
+
+.menu li {
+  margin-bottom: 10px;
+}
+.menu li.active {
+  font-weight: bold;
+  /* background-color: var(--light-gray); */
+}
+
+.menu li a {
+  display: block;
+}

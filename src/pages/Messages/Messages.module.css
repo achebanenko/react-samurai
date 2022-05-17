@@ -1,0 +1,12 @@
+.wrapper {
+  display: flex;
+}
+
+.container {
+  flex: 1;
+}
+
+.side {
+  padding-left: 40px;
+  width: 35%;
+}
